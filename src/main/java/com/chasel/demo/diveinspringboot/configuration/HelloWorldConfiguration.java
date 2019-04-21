@@ -1,7 +1,6 @@
 package com.chasel.demo.diveinspringboot.configuration;
 
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 
 /**
  * HelloWorld 配置
@@ -9,7 +8,6 @@ import org.springframework.context.annotation.Configuration;
  * @author XieLongzhen
  * @date 2019/3/31 21:38
  */
-@Configuration
 public class HelloWorldConfiguration {
 
     @Bean
