@@ -1,6 +1,6 @@
 package com.chasel.demo.diveinspringboot.annotation;
 
-import com.chasel.demo.diveinspringboot.configuration.HelloWorldConfiguration;
+//import com.chasel.demo.diveinspringboot.configuration.HelloWorldConfiguration;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.*;
